@@ -28,4 +28,3 @@ Check out my portfolio at [dhaval1.vercel.app](https://dhaval1.vercel.app).
 
 ---
 
-![Dhaval's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhaval110&show_icons=true&theme=radical)
