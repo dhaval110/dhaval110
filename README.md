@@ -16,8 +16,8 @@ Check out my portfolio at [dhaval1.vercel.app](https://dhaval1.vercel.app).
 
 ### 🌟 Featured Projects
 - **[Portfolio Website](https://dhaval1.vercel.app):** My personal portfolio built with Next.js and Tailwind CSS.
-- **[E-Commerce Store](https://github.com/dhaval110/ecommerce):** A fully responsive e-commerce application.
-- **[Blog Platform](https://github.com/dhaval110/blog-platform):** A modern blog platform with Next.js and Markdown support.
+- **[Social-Media-Backend](https://github.com/dhaval110/social-media-backend)):** A RESTful API developed using Node.js, Express.js, and Postgres, Supabase Prisma to integrate backend and frontend with ease..
+- **[Blog Platform](https://klimate-ebon.vercel.app/):** A modern weather app built with Next.js, Tailwind CSS, Shadcn UI, TanStack Query, and TypeScript. It fetches real-time weather data and displays it with a clean, responsive UI..
 
 ---
 
