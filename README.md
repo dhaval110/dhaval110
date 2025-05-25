@@ -14,6 +14,11 @@ Check out my portfolio at [dhaval1.vercel.app](https://dhaval1.vercel.app).
 
 ---
 
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhaval110&show_icons=true&locale=en&layout=compact" alt="dhaval110" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhaval110&" alt="dhaval110" /></p>
+
 ### 🌟 Featured Projects
 - **[Portfolio Website](https://dhaval1.vercel.app):** My personal portfolio built with Next.js and Tailwind CSS.
 - **[Social-Media-Backend](https://github.com/dhaval110/social-media-backend)):** A RESTful API developed using Node.js, Express.js, and Postgres, Supabase Prisma to integrate backend and frontend with ease..
